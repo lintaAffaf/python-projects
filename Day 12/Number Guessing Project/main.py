@@ -1,7 +1,7 @@
 import random
 from art import logo
-EASY_LEVEL_TURNS=5
-HARD_LEVEL_TURNS=3
+EASY_LEVEL_TURNS=4
+HARD_LEVEL_TURNS=87
 
 def check_answer(u_guess,actual_no,turns):
     if u_guess>actual_no:
