@@ -1,0 +1,10 @@
+len("Hello")
+#string
+print("hello")
+#integer
+print(932)
+#float
+print(734.25)
+#boolean
+print(True)
+print(False)
